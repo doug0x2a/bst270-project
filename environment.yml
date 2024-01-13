@@ -1,0 +1,10 @@
+name: bst270-project
+channels:
+  - defaults
+dependencies:
+  - python=3.11.7
+  - ipykernel=6.25.0
+  - notebook=7.0.6
+  - nbconvert=7.10.0
+  - pandas=2.1.4
+  - matplotlib=3.8.0
