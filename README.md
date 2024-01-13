@@ -28,6 +28,12 @@ conda env create -f environment.yml -n [name]
 
 # Document Rendering
 
+Activate the conda environment that was created above:
+
+```
+conda activate bst270-project
+```
+
 Creation of the pdf file can be performed with the following command:
 
 ```
