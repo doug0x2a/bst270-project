@@ -1,6 +1,6 @@
 # BST 270 Individual Project
 
-This repository contains my attempt to reproduce the figures found in the FiveThirtyEight article [Congress Today Is Older Than It's Ever Been](https://fivethirtyeight.com/features/aging-congress-boomers/).  
+This repository contains my attempt to reproduce the first and third figures found in the FiveThirtyEight article [Congress Today Is Older Than It's Ever Been](https://fivethirtyeight.com/features/aging-congress-boomers/).
 
 The data for this article can be found on [github](https://github.com/fivethirtyeight/data/tree/master/congress-demographics), and should be placed in the `data` directory.
 
